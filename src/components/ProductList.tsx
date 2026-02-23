@@ -15,7 +15,7 @@ const ProductList = () => {
       const matchesCategory = activeCategory === "All" || p.category === activeCategory;
       return matchesSearch && matchesCategory;
     });
-  }, [search, activeCategory]);
+  }, [search, activeCategory, products]);
 
   return (
     <section id="products" className="bg-background py-16 lg:py-24">

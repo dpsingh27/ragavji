@@ -41,8 +41,8 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Consistently 25-30% higher yielder than the varieties of same duration 120-125 days. Notified by Government of India. Highly suitable to direct seeded rice system with more than 70% milling.",
     features: ["High productive tiller per plant", "More grains per panicle", "Wider adaptability", "120-125 days duration", "More than 70% milling", "Govt. of India Notified"],
-    image: "https://images.unsplash.com/photo-1536304993881-460346024024?w=400&h=300&fit=crop",
-  },
+    image: new URL("./cori.jpg", import.meta.url).href,
+    },
   {
     id: "raghav-666",
     name: "Raghav 666 (RASPL-666)",
@@ -140,7 +140,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "First picking 50-55 days. Medium long dark green fruits with sharp prickles. Vigorous plant with downy mildew tolerance. Excellent fruit setting with long duration.",
     features: ["50-55 days first picking", "18-22 cm fruit length", "100-120g fruit weight", "Downy mildew tolerant", "Dark green fruits", "Long duration"],
-    image: "https://images.unsplash.com/photo-1588391875812-08b8c3a26604?w=400&h=300&fit=crop",
+    image: new URL("./hybrid bitter.jpg", import.meta.url).href,
   },
   {
     id: "chhaya-5110",
@@ -257,6 +257,6 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Very slow bolting, multicut & improved tall plant with young and broad leaves and stems. Good aroma. Can be grown round the year.",
     features: ["Slow bolting", "Multicut variety", "Broad leaves", "Good aroma", "Year-round growing"],
-    image: "https://images.unsplash.com/photo-1592928302636-c83cf1e1c887?w=400&h=300&fit=crop",
+    image: "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400&h=300&fit=crop",
   },
 ];
