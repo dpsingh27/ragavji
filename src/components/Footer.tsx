@@ -34,7 +34,11 @@ const Footer = () => {
               </div>
               <div className="flex items-start gap-2">
                 <MapPin className="mt-0.5 h-4 w-4 text-primary flex-shrink-0" />
-                <span>Vill. Bhagatpurwa, Acharamau, Lucknow</span>
+                <span>E - 39/615 
+Parking No 3
+Transparent Nagar 
+Lucknow 
+226012</span>
               </div>
             </div>
           </div>
