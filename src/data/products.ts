@@ -41,7 +41,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Consistently 25-30% higher yielder than the varieties of same duration 120-125 days. Notified by Government of India. Highly suitable to direct seeded rice system with more than 70% milling.",
     features: ["High productive tiller per plant", "More grains per panicle", "Wider adaptability", "120-125 days duration", "More than 70% milling", "Govt. of India Notified"],
-    image: new URL("./cori.jpg", import.meta.url).href,
+    image: new URL("./product images/raghav 555.jpg", import.meta.url).href,
     },
   {
     id: "raghav-666",
@@ -50,7 +50,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Medium grain rice hybrid with 110-115 days crop duration. Tolerant to leaf blight and brown plant hopper. Green leaves with yellow pollen color and compact head shape.",
     features: ["110-115 days duration", "Tolerance to leaf Blight", "Tolerance to brown plant hopper", "Medium grain rice", "Compact head shape"],
-    image: "https://images.unsplash.com/photo-1574323347407-f5e1ad6d020b?w=400&h=300&fit=crop",
+    image: new URL("./product images/raghav 666.jpg", import.meta.url).href,
   },
   {
     id: "raghav-222",
@@ -59,7 +59,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "High yielding hybrid with 130-135 days crop duration. Plant height 95-100 cm with 12-15 tillers per plant. Medium Bold, Non sticky grains with good cooking quality after ageing.",
     features: ["130-135 days duration", "95-100 cm height", "12-15 tillers/plant", "22-25 cm panicle length", "Good cooking quality", "Suitable for Bihar, JH & W. Bengal"],
-    image: "https://images.unsplash.com/photo-1601493700631-2b16ec4b4716?w=400&h=300&fit=crop",
+    image: new URL("./product images/raghav 222.jpg", import.meta.url).href,
   },
   {
     id: "raghav-555-gold",
@@ -68,7 +68,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Medium long height about 110cm with 100-105 days duration. Super fine short slender grains with 70% milling and 60% head rice recovery with good cooking quality.",
     features: ["100-105 days duration", "110cm height", "Super fine slender grains", "70% milling", "60% head rice recovery", "55-60 Qtl/hectare yield"],
-    image: "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=400&h=300&fit=crop",
+    image: new URL("./product images/ragav 555.jpg", import.meta.url).href,
   },
   {
     id: "raspl-6633",
@@ -77,7 +77,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Single cross hybrid with plant height 180-200 cm. Cob length 22-24 cm with 14-16 rows of semi dent grains. Orange yellow colour grains with high yield capacity.",
     features: ["Single cross hybrid", "180-200 cm height", "22-24 cm cob length", "105-110 days Kharif", "300-320 gms per 1000 grains", "High yield capacity"],
-    image: "https://images.unsplash.com/photo-1551754655-cd27e38d2076?w=400&h=300&fit=crop",
+    image: new URL("./product images/RSPL.jpg", import.meta.url).href,
   },
   {
     id: "nandani-115",
@@ -86,7 +86,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Bajara hybrid with plant height 180-200 cms, candle shaped ear head. Dark green leaves with light grey grain colour. High yield with 85-90 days crop duration.",
     features: ["180-200 cm height", "Dark Green leaves", "Candle shape ear head", "Light grey grains", "85-90 days duration", "High yield"],
-    image: "https://images.unsplash.com/photo-1625246333195-78d9c38ad449?w=400&h=300&fit=crop",
+    image: new URL("./product images/Nandani bajra.jpg", import.meta.url).href,
   },
   {
     id: "badal-121",
@@ -95,7 +95,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Grain Jowar hybrid with 160-180 cms plant height and candle shaped ear head. Dark green leaves with light grey grain colour. 65-75 days crop duration with high yield.",
     features: ["160-180 cm height", "Candle shape ear head", "65-75 days duration", "High yield", "Light grey grains"],
-    image: "https://images.unsplash.com/photo-1597916829826-02e5bb4a54e0?w=400&h=300&fit=crop",
+    image: new URL("./product images/badal.jpg", import.meta.url).href,
   },
   {
     id: "vishal-333-wheat",
@@ -113,7 +113,7 @@ export const products: Product[] = [
     subCategory: "Field Crops",
     description: "Hybrid mustard with very early maturity about 100-110 days. Mid tall and semi compact plants with 160-170 cm height. Long silique length with brownish black bold round seeds.",
     features: ["100-110 days maturity", "160-170 cm height", "Semi compact plants", "Bold round seeds", "Tolerant to white rust", "Tolerant to sclerotinia"],
-    image: "https://images.unsplash.com/photo-1591857177580-dc82b9ac4e1e?w=400&h=300&fit=crop",
+    image: new URL("./product images/Rambha.jpg", import.meta.url).href,
   },
   {
     id: "amrita-111",
@@ -122,7 +122,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Steady plant with side branching. Dark green fruits with 5-6 ridges, 12-15 cm fruit length weighing about 12-17 gm. First harvest 42-45 days from sowing. Good tolerance to YVMV.",
     features: ["12-15 cm fruit length", "Dark green fruits", "5-6 ridges", "42-45 days first harvest", "High yielding", "YVMV tolerant"],
-    image: "https://images.unsplash.com/photo-1425543103986-22abb7d7e8d2?w=400&h=300&fit=crop",
+    image: new URL("./product images/amrita 111.jpg", import.meta.url).href,
   },
   {
     id: "garima-605",
@@ -149,7 +149,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Vigorous plant with glossy green cylindrical long fruits 50-55 cm. Fruit weight 1.5-2.5 kg. Days to first pick 60-65 days. Prolonged fruit bearing with shiny green fruits and good heat set.",
     features: ["50-55 cm fruit length", "1.5-2.5 kg fruit weight", "60-65 days first pick", "Cylindrical shape", "Glossy green", "Good heat set"],
-    image: "https://images.unsplash.com/photo-1596040033229-a9821ebd058d?w=400&h=300&fit=crop",
+    image: new URL("./product images/chhaya 5110.jpg", import.meta.url).href,
   },
   {
     id: "anika-7072",
@@ -158,7 +158,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "High vigorous plant with flat round shaped fruits. Attractive dark green & shiny skin colour with yellowish orange flesh. Fruit weight 2.5-3.5 kgs. First picking 80-85 DAS.",
     features: ["2.5-3.5 kg fruit weight", "Flat round shape", "Dark green shiny skin", "Yellowish orange flesh", "80-85 DAS picking", "High yielding"],
-    image: "https://images.unsplash.com/photo-1506917728037-b6af01a7d403?w=400&h=300&fit=crop",
+    image: new URL("./product images/anika 7072.jpg", import.meta.url).href,
   },
   {
     id: "king-cobra-6660",
@@ -167,7 +167,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Erect & bushy plant type with high pungency. Green glossy semi-wrinkled surface fruits, 7.5-8.5 cm length. First green picking 70-75 days. High yielding with high oleoresin and capsaicin contents.",
     features: ["7.5-8.5 cm fruit length", "High pungency", "70-75 days green picking", "High oleoresin content", "Heat set tolerant", "Good rejuvenations"],
-    image: "https://images.unsplash.com/photo-1588252303782-cb80119abd6d?w=400&h=300&fit=crop",
+    image: new URL("./product images/king kobra 6660.jpg", import.meta.url).href,
   },
   {
     id: "neeraj-2010",
