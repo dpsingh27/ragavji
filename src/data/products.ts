@@ -176,7 +176,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Erect plant type with first picking at 70-75 days. Deep violet with purplish green calyx. Roundish shape, 250-300 gm fruit size. Less seed content with excellent heat set up to 45°C.",
     features: ["250-300 gm fruit", "Deep violet color", "Roundish shape", "70-75 days first picking", "Heat set up to 45°C", "Suitable for Bharta"],
-    image: "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400&h=300&fit=crop",
+    image: new URL("./product images/Brinjal.jpg", import.meta.url).href,
   },
   {
     id: "mamta-2021",
@@ -257,6 +257,6 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Very slow bolting, multicut & improved tall plant with young and broad leaves and stems. Good aroma. Can be grown round the year.",
     features: ["Slow bolting", "Multicut variety", "Broad leaves", "Good aroma", "Year-round growing"],
-    image: "https://images.unsplash.com/photo-1615484477778-ca3b77940c25?w=400&h=300&fit=crop",
+    image: new URL("./product images/ragav mahak.jpg", import.meta.url).href,
   },
 ];
