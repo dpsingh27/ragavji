@@ -212,7 +212,7 @@ export const products: Product[] = [
     subCategory: "Vegetable Crops",
     description: "Erect plant habit with white dome-shaped curd. Average curd weight 1-1.25 kgs with very good compactness. 70-75 days to maturity. Green leaf color.",
     features: ["1-1.25 kg curd weight", "White dome curd", "Very good compactness", "70-75 days maturity", "Erect plant habit"],
-    image: "https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?w=400&h=300&fit=crop",
+    image: new URL("./product images/curliflower.jpg", import.meta.url).href,
   },
   {
     id: "varuna-5140",
