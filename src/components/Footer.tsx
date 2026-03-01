@@ -56,7 +56,7 @@ Lucknow
 
         <div className="mt-10 border-t border-border pt-6 text-center">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} Raghav Ji Agro Seeds Pvt. Ltd. All rights reserved. | www.raghavjiseeds.com
+            © {new Date().getFullYear()} Raghav Ji Agro Seeds Pvt. Ltd. All rights reserved. | Developed by Boom Dyanamix.
           </p>
         </div>
       </div>
